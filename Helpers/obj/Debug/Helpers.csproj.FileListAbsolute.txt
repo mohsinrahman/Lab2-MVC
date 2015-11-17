@@ -1,0 +1,15 @@
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Helpers\bin\Debug\Helpers.dll
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Helpers\bin\Debug\Helpers.pdb
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Helpers\obj\Debug\Helpers.csprojResolveAssemblyReference.cache
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Helpers\obj\Debug\Helpers.dll
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Helpers\obj\Debug\Helpers.pdb
+C:\Users\Elena\Source\Repos\MVC\Helpers\bin\Debug\Helpers.dll
+C:\Users\Elena\Source\Repos\MVC\Helpers\bin\Debug\Helpers.pdb
+C:\Users\Elena\Source\Repos\MVC\Helpers\obj\Debug\Helpers.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Source\Repos\MVC\Helpers\obj\Debug\Helpers.dll
+C:\Users\Elena\Source\Repos\MVC\Helpers\obj\Debug\Helpers.pdb
+C:\Users\Alexander\Desktop\Lab2\Helpers\bin\Debug\Helpers.dll
+C:\Users\Alexander\Desktop\Lab2\Helpers\bin\Debug\Helpers.pdb
+C:\Users\Alexander\Desktop\Lab2\Helpers\obj\Debug\Helpers.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\Lab2\Helpers\obj\Debug\Helpers.dll
+C:\Users\Alexander\Desktop\Lab2\Helpers\obj\Debug\Helpers.pdb

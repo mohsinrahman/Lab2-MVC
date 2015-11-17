@@ -1,0 +1,213 @@
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\obj\Debug\Websida.csprojResolveAssemblyReference.cache
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\roslyn\csc.exe
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\roslyn\vbc.exe
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\roslyn\VBCSCompiler.exe
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\Websida.dll.config
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\Websida.dll
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\Websida.pdb
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\Antlr3.Runtime.dll
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\EntityFramework.dll
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\EntityFramework.SqlServer.dll
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\Helpers.dll
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\Microsoft.Owin.dll
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\Microsoft.Owin.Security.dll
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\Newtonsoft.Json.dll
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\Owin.dll
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\System.Web.Helpers.dll
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\System.Web.Mvc.dll
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\System.Web.Optimization.dll
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\System.Web.Razor.dll
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\System.Web.WebPages.Deployment.dll
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\System.Web.WebPages.dll
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\System.Web.WebPages.Razor.dll
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\WebGrease.dll
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\Helpers.pdb
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\System.Web.Helpers.xml
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\System.Web.Mvc.xml
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\System.Web.Optimization.xml
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\System.Web.Razor.xml
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\System.Web.WebPages.xml
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\System.Web.WebPages.Deployment.xml
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\System.Web.WebPages.Razor.xml
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\Antlr3.Runtime.pdb
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\Newtonsoft.Json.xml
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\EntityFramework.xml
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\EntityFramework.SqlServer.xml
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\Microsoft.Owin.xml
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\Microsoft.Owin.Security.xml
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\obj\Debug\Websida.dll
+C:\Users\surmaily\Desktop\Nueva carpeta\Websida\Websida\obj\Debug\Websida.pdb
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\roslyn\csc.exe
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\roslyn\vbc.exe
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\roslyn\VBCSCompiler.exe
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\Websida.dll.config
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\Websida.dll
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\Websida.pdb
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\Antlr3.Runtime.dll
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\EntityFramework.dll
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\EntityFramework.SqlServer.dll
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\Helpers.dll
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\Microsoft.Owin.dll
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\Microsoft.Owin.Security.dll
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\Newtonsoft.Json.dll
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\Owin.dll
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\System.Web.Helpers.dll
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\System.Web.Mvc.dll
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\System.Web.Optimization.dll
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\System.Web.Razor.dll
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\System.Web.WebPages.dll
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\System.Web.WebPages.Razor.dll
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\WebGrease.dll
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\Helpers.pdb
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\System.Web.Helpers.xml
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\System.Web.Mvc.xml
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\System.Web.Optimization.xml
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\System.Web.Razor.xml
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\System.Web.WebPages.xml
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\System.Web.WebPages.Razor.xml
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\Antlr3.Runtime.pdb
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\Newtonsoft.Json.xml
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\EntityFramework.xml
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\EntityFramework.SqlServer.xml
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\Microsoft.Owin.xml
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\Microsoft.Owin.Security.xml
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Elena\Source\Repos\MVC\Websida\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Elena\Source\Repos\MVC\Websida\obj\Debug\Websida.csprojResolveAssemblyReference.cache
+C:\Users\Elena\Source\Repos\MVC\Websida\obj\Debug\Websida.dll
+C:\Users\Elena\Source\Repos\MVC\Websida\obj\Debug\Websida.pdb
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\roslyn\csc.exe
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\roslyn\vbc.exe
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\Websida.dll.config
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\Websida.dll
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\Websida.pdb
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\Antlr3.Runtime.dll
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\EntityFramework.dll
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\EntityFramework.SqlServer.dll
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\Helpers.dll
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\Microsoft.Owin.dll
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\Microsoft.Owin.Security.dll
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\Newtonsoft.Json.dll
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\Owin.dll
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\System.Web.Helpers.dll
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\System.Web.Mvc.dll
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\System.Web.Optimization.dll
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\System.Web.Razor.dll
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\System.Web.WebPages.dll
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\WebGrease.dll
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\Helpers.pdb
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\System.Web.Helpers.xml
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\System.Web.Mvc.xml
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\System.Web.Optimization.xml
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\System.Web.Razor.xml
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\System.Web.WebPages.xml
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\Antlr3.Runtime.pdb
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\Newtonsoft.Json.xml
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\EntityFramework.xml
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\EntityFramework.SqlServer.xml
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\Microsoft.Owin.xml
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\Microsoft.Owin.Security.xml
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Alexander\Desktop\Lab2\Websida\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Alexander\Desktop\Lab2\Websida\obj\Debug\Websida.csprojResolveAssemblyReference.cache
+C:\Users\Alexander\Desktop\Lab2\Websida\obj\Debug\Websida.dll
+C:\Users\Alexander\Desktop\Lab2\Websida\obj\Debug\Websida.pdb
